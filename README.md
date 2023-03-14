@@ -1,2 +1,2 @@
 # azxyc.link
-lightweight url shortener
+lightweight QR code generator
